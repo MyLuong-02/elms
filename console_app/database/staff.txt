@@ -1,0 +1,5 @@
+STF2001, A001, Kevin Vo, 1980-02-15, kevin@example.com, Academic, Computer Science
+STF2002, A002, Linda Hoang, 1975-09-10, linda@example.com, Academic, Robotics
+STF2003, A003, Michael Phan, 1985-06-20, michael@example.com, Academic, Electrical Engineering
+STF3001, P001, Lisa Tran, 1990-04-18, lisa@example.com, Professional, HR
+STF3002, P002, Tom Nguyen, 1988-12-05, tom@example.com, Professional, Technical Support

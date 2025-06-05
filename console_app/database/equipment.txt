@@ -1,0 +1,12 @@
+EQ001, Arduino Board, Borrowed, 2023-02-10, Brand New
+EQ002, 3D Printer, Borrowed, 2022-11-20, Good
+EQ003, VR Headset, Borrowed, 2023-06-05, Good
+EQ004, Oscilloscope, Unavailable, 2021-07-12, Needs Maintenance
+EQ005, Robotics Kit, Available, 2023-03-08, Brand New
+EQ006, Laptop, Available, 2022-12-15, Good
+EQ007, Digital Multimeter, Borrowed, 2023-09-30, Good
+EQ008, Smartphone, Available, 2010-01-01, Brand New
+EQ009, Raspberry Pi, Borrowed, 2023-08-17, Good
+EQ010, Drone, Available, 2023-04-10, Brand New
+EQ011, Micro:Bit, Available, 2020-12-02, Brand New
+EQ012, Phone, Available, 2020-01-01, Good

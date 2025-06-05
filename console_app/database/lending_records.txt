@@ -1,0 +1,15 @@
+L001, STU1001, EQ002, STF2002, 2024-01-01, 2024-02-10, Returned, Research Project
+L002, STU1002, EQ006, STF2002, 2024-02-02, 2024-02-09, Returned, Lab Experiment
+L003, STU1003, EQ009, STF2003, 2024-02-05, 2024-02-10, Returned, AI Development
+L004, STU1004, EQ005, STF2001, 2024-02-06, 2024-02-16, Returned, Robotics Course
+L005, STU1005, EQ003, STF2002, 2024-02-07, 2024-02-17, Returned, VR Simulation
+L006, STU1006, EQ002, STF2003, 2025-02-11, 2025-05-31, Borrowed, Electronics Study
+L007, STU1007, EQ009, STF2001, 2025-03-09, 2025-03-19, Overdue, Embedded Systems
+L008, STU1008, EQ006, STF2002, 2024-02-10, 2024-02-20, Returned, Software Testing
+L009, STU1009, EQ005, STF2003, 2024-02-11, 2024-02-21, Returned, Course Work
+L010, STU1010, EQ001, STF2001, 2024-02-27, 2024-03-22, Returned, Electronics Practice
+L011, STF2001, EQ007, -, 2024-02-13, 2024-02-23, Returned, Academic Research
+L012, STF2002, EQ010, -, 2024-02-14, 2024-02-24, Returned, Teaching Course
+L013, STF2003, EQ007, -, 2024-02-15, 2024-02-25, Returned, Workshop Equipment
+L014, STF3001, EQ001, -, 2025-02-16, 2025-05-26, Borrowed, HR Training
+L015, STF3002, EQ007;EQ003, -, 2025-03-20, 2025-03-31, Overdue, Individual Project

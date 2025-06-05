@@ -1,0 +1,10 @@
+STU1001, S001, Alice Nguyen, 2002-05-10, alice@example.com
+STU1002, S002, Bob Tran, 2001-08-21, bob@example.com
+STU1003, S003, Charlie Pham, 2003-01-15, charlie@example.com
+STU1004, S004, David Le, 2002-12-03, david@example.com
+STU1005, S005, Emily Vu, 2001-07-19, emily@example.com
+STU1006, S006, Frank Ho, 2002-09-30, frank@example.com
+STU1007, S007, Grace Dang, 2003-04-25, grace@example.com
+STU1008, S008, Henry Bui, 2001-11-11, henry@example.com
+STU1009, S009, Ivy Lam, 2002-06-07, ivy@example.com
+STU1010, S010, Jack Nguyen, 2003-03-14, jack@example.com
